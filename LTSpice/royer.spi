@@ -1,0 +1,10 @@
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.dio
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.bjt
+
+.tran 10m startup
+
+* Cold Cathode Fluorescent Lighting Power Supply
+* Royer Oscillator
+* lamp
+.lib LT1184F.sub
+

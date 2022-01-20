@@ -1,0 +1,4 @@
+.tran 1.5m startup
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.dio
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.jft
+

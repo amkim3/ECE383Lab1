@@ -1,0 +1,6 @@
+.noise v(out) V3 oct 100 1 20k 0
+.PROBE NOISE INOISE
+.PROBE NOISE ONOISE
+
+
+.lib C:\Program Files (x86)\LTC\LTspiceIV\lib\cmp\standard.bjt

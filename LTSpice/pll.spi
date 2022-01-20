@@ -1,0 +1,3 @@
+.params w0=2*pi*1K Q=5
+;.options baudrate=500 delay=.6m
+

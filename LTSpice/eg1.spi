@@ -1,0 +1,4 @@
+* .ac oct 10 .1 10Meg\n.param freq=0
+* This example shows the basic principle of extracting\nthe small signal AC characteristics from time domain simulation.\n \nAfter running the simulation, execute menu command\nView=>SPICE Error Log.  Then right click and select\n"Plot .step'ed .meas data".  Press "yes" to the dialog\nasking if it should combine the data to complex numbers.
+* To use this technique in your\nown simulations, include these\n.measure statements
+.lib UniversalOpamps2.sub
